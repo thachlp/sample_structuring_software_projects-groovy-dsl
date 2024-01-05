@@ -1,7 +1,8 @@
 repo_name: thachlp/sample_structuring_software_projects-groovy-dsl
 report_id: 2d712dffcf2cc966bc61650a33df7cd5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T03:19:56+00:00'
+timestamp: '2024-01-05T09:02:57+00:00'
 requested_by: thachlp
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/thachlp/sample_structuring_software_projects-groovy-dsl
   detection_source: Repo Metadata
